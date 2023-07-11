@@ -10,4 +10,6 @@ Additionally, I have built an App by using Streamlit to deploy the trained model
 - step 2: Install necsesary libraries which I put in 'requirement.txt'
 - step 3: command 'streamlit run App.py'
 - step 4: Done!
+##
+Data Source: https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices
 ## Thank you
